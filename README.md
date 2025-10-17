@@ -31,7 +31,6 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 - Genome assembly and curation  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&theme=transparent)
 
 ### 📫 Contact
 📧 **rodrigo.zeni@unesp.br**  
@@ -40,3 +39,8 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 ---
 
 ⭐ *“Decoding the repetitive side of genomes.”*
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&theme=transparent)
