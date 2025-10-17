@@ -19,8 +19,8 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 ---
 
 ### 📈 Current Projects
- **satDNA Evolution Project** — large-scale comparative analysis of satellite DNA across fish species *(currently private until publication)*  
- **Automated pipelines for repeat detection and genome feature mapping**
+- **satDNA Evolution Project** — large-scale comparative analysis of satellite DNA across fish species *(currently private until publication)*  
+- **Automated pipelines for repeat detection and genome feature mapping**
 
 ---
 
