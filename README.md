@@ -37,3 +37,6 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 ---
 
 ⭐ *“Decoding the repetitive side of genomes.”*
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zenirodrigo&show_icons=true&theme=tokyonight)
+
