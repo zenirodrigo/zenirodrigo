@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Bash](https://img.shields.io/badge/Bash-shell-black?logo=gnu-bash)
+![R](https://img.shields.io/badge/R-Programming-lightblue?logo=r)
 ![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)
-![Genomics](https://img.shields.io/badge/Focus-Genomics-purple)
+
 
 # 👋 Hi, I'm Rodrigo Zeni dos Santos — a Brazilian researcher
 
@@ -29,6 +31,7 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 - Genome assembly and curation  
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&theme=transparent)
 
 ### 📫 Contact
 📧 **rodrigo.zeni@unesp.br**  
@@ -37,6 +40,3 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 ---
 
 ⭐ *“Decoding the repetitive side of genomes.”*
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zenirodrigo&show_icons=true&theme=tokyonight)
-
