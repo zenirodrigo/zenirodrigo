@@ -1,16 +1,39 @@
-## Hi there 👋
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)
+![Genomics](https://img.shields.io/badge/Focus-Genomics-purple)
 
-<!--
-**zenirodrigo/zenirodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rodrigo Zeni dos Santos — a Brazilian researcher
 
-Here are some ideas to get you started:
+🔬 **Biologist | MSc & PhD Candidate in Biosciences**  
+Focused on **genomics, bioinformatics, and repetitive DNA.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop and optimize computational workflows for genome assembly, repeat analysis, and evolutionary genomics.
+
+---
+
+### 💻 Languages
+- **Python**, **Bash**, and **R**
+
+---
+
+### 📈 Current Projects
+- 🧩 **satDNA Evolution Project** — large-scale comparative analysis of satellite DNA across fish species *(currently private until publication)*  
+- 🧠 **Automated pipelines for repeat detection and genome feature mapping**
+
+---
+
+### 🧪 Research Interests
+- B chromosomes  
+- Satellite DNA  
+- Comparative genomics and genome evolution  
+- Genome assembly and curation  
+
+---
+
+### 📫 Contact
+📧 **rodrigo.zeni@unesp.br**  
+📧 **rodrigo-zeni@outlook.com.br**
+
+---
+
+⭐ *“Decoding the repetitive side of genomes.”*
