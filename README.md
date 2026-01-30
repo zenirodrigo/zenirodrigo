@@ -42,5 +42,3 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&theme=transparent)
