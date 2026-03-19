@@ -4,9 +4,9 @@
 ![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)
 
 
-# 👋 Hi, I'm Rodrigo Zeni dos Santos — a Brazilian researcher
+# Hi, I'm Rodrigo Zeni dos Santos — a Brazilian researcher
 
-🔬 **Biologist | MSc & PhD Candidate in Biosciences**  
+ **Biologist | MSc & PhD Candidate in Biosciences**  
 Focused on **genomics, bioinformatics, and repetitive DNA.**  
 
 I develop and optimize computational workflows for genome assembly, repeat analysis, and evolutionary genomics.
@@ -18,13 +18,8 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 
 ---
 
-### 📈 Current Projects
-- **satDNA Evolution Project** — large-scale comparative analysis of satellite DNA across fish species *(currently private until publication)*  
-- **Automated pipelines for repeat detection and genome feature mapping**
 
----
-
-### 🧪 Research Interests
+###  Research Interests
 - B chromosomes  
 - Satellite DNA  
 - Comparative genomics and genome evolution  
@@ -33,12 +28,12 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 ---
 
 ### 📫 Contact
-📧 **rodrigo.zeni@unesp.br**  
-📧 **rodrigo-zeni@outlook.com.br**
+**rodrigo.zeni@unesp.br**  
+**rodrigo-zeni@outlook.com.br**
 
 ---
 
-⭐ *“Decoding the repetitive side of genomes.”*
+*“Decoding the repetitive side of genomes.”*
 
 
 
