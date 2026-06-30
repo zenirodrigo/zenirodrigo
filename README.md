@@ -13,7 +13,7 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 
 ---
 
-### 💻 Languages
+### Languages
 - **Python**, **Bash**, and **R**
 
 ---
@@ -27,13 +27,10 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 
 ---
 
-### 📫 Contact
+### Contact
 **rodrigo.zeni@unesp.br**  
 **rodrigo-zeni@outlook.com.br**
 
 ---
-
-*“Decoding the repetitive side of genomes.”*
-
 
 
