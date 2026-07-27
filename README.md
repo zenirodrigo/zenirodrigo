@@ -23,7 +23,7 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 - B chromosomes  
 - Satellite DNA  
 - Comparative genomics and genome evolution  
-- Genome assembly and curation  
+- Genome assembly  
 
 ---
 
