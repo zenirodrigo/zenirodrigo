@@ -4,7 +4,7 @@
 ![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)
 
 
-# Hi, I'm Rodrigo Zeni dos Santos — a Brazilian researcher
+# I'm Rodrigo Zeni dos Santos, a Brazilian researcher
 
  **Biologist | MSc & PhD Candidate in Biosciences**  
 Focused on **genomics, bioinformatics, and repetitive DNA.**  
