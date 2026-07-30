@@ -21,6 +21,11 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenirodrigo&theme=tokyo-night&hide_border=true"/>
+</p>
+
+--- 
 
 ### Research Interests
 
@@ -31,7 +36,19 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 
 ---
 
-### Contact
+### Connect With Me
 
-**rodrigo.zeni@unesp.br**  
-**rodrigo-zeni@outlook.com.br**
+<p align="left">
+  <a href="https://www.researchgate.net/profile/Rodrigo-Zeni-Dos-Santos?ev=hdr_xprf">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+  <a href="http://lattes.cnpq.br/5051476095045797">
+    <img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge"/>
+  </a>
+  <a href="https://www.instagram.com/zeni.rodrigo/">
+    <img src="https://img.shields.io/badge/Instagram-zeni.rodrigo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+📧 **rodrigo.zeni@unesp.br**  
+📧 **rodrigo-zeni@outlook.com.br**
