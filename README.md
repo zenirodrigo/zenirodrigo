@@ -12,14 +12,6 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zenirodrigo&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-</p>
-
----
 
 ### Research Interests
 
