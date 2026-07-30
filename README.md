@@ -14,7 +14,7 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 ---
 
 ### Languages
-- **Python**, **Bash**, and **R**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
 
@@ -24,6 +24,11 @@ I develop and optimize computational workflows for genome assembly, repeat analy
 - Satellite DNA  
 - Comparative genomics and genome evolution  
 - Genome assembly  
+
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenirodrigo&show_icons=true&theme=tokyonight)
 
 ---
 
