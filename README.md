@@ -21,47 +21,6 @@ My research focuses on **genomics, bioinformatics, repetitive DNA, B chromosome,
 
 ---
 
-## Bioinformatics and Genomics
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PacBio-HiFi-003B5C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hi--C-Scaffolding-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Genome-Assembly-2E8B57?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Comparative-Genomics-4682B4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Repetitive-DNA-8B5CF6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Evolutionary-Genomics-B22222?style=flat-square"/>
-</p>
-
-### Main Tools and Technologies
-
-* **Programming:** Python, R, Bash and AWK
-* **Operating systems:** Linux and Unix-based environments
-* **Environment management:** Conda and Mamba
-* **Genome assembly:** Hifiasm and long-read assembly workflows
-* **Genome scaffolding:** Juicer, 3D-DNA, YAHS, HapHiC and Hi-C-based approaches
-* **Genome evaluation:** BUSCO, QUAST and assembly statistics
-* **Sequence processing:** SAMtools, BEDTools, BWA and BWA-MEM2
-* **Comparative genomics:** SyRI, plotsr and orthology-based analyses
-* **Functional annotation:** EGAPx, eggNOG-mapper, GO and KEGG enrichment
-* **Repetitive DNA:** satellite DNA, transposable elements and repeatome analyses
-
----
-
-## Featured Research Areas
-
-### B Chromosome Genomics
-
-Investigation of the origin, structure, repetitive content, gene composition, and evolution of B chromosomes using chromosome-level genome assemblies, short-read k-mers, sequencing coverage, and comparative genomic approaches.
-
-### Genome Assembly and Curation
-
-Development and comparison of workflows for de novo genome assembly, Hi-C scaffolding, manual curation, chromosome identification, and genome quality assessment.
-
-### Repetitive DNA Evolution
-
-Characterization of satellite DNA, transposable elements, repeat distribution, and repeatome evolution across chromosomes, populations, and related species.
-
----
 
 ## GitHub Statistics
 
