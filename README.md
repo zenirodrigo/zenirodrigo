@@ -1,54 +1,123 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Bash](https://img.shields.io/badge/Bash-shell-black?logo=gnu-bash)
-![R](https://img.shields.io/badge/R-Programming-lightblue?logo=r)
-![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4c71f2&height=210&section=header&text=Rodrigo%20Zeni%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Genomics%20%7C%20Bioinformatics%20%7C%20Genome%20Evolution&descAlignY=55&descSize=18"/>
+</p>
 
-# I'm Rodrigo Zeni dos Santos, a Brazilian researcher
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-Shell-black?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-Programming-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Command_Line-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Field-Bioinformatics-2E8B57?style=flat-square"/>
+</p>
 
-**Biologist | MSc & PhD Candidate in Biosciences**  
-Focused on **genomics, bioinformatics, and repetitive DNA.**
+# About Me
 
-I develop and optimize computational workflows for genome assembly, repeat analysis, and evolutionary genomics.
+I'm **Rodrigo Zeni dos Santos**, a Brazilian researcher and PhD candidate in Biosciences.
+
+**Biologist | MSc | PhD Candidate**
+
+My research focuses on **genomics, bioinformatics, repetitive DNA, chromosome evolution, and genome assembly**.
+
+I develop and optimize computational workflows for chromosome-level genome assembly, repeat characterization, comparative genomics, and evolutionary analyses using long-read sequencing and chromosome conformation capture data.
 
 ---
 
-### GitHub Statistics
+## Research Interests
+
+* B chromosomes and supernumerary chromosome evolution
+* Satellite DNA and repetitive elements
+* Comparative and evolutionary genomics
+* Chromosome-level genome assembly
+* Genome scaffolding and manual curation
+* Structural and functional genome annotation
+* Bioinformatics workflow development
+
+---
+
+## Bioinformatics and Genomics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PacBio-HiFi-003B5C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hi--C-Scaffolding-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Genome-Assembly-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Comparative-Genomics-4682B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Repetitive-DNA-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Evolutionary-Genomics-B22222?style=flat-square"/>
+</p>
+
+### Main Tools and Technologies
+
+* **Programming:** Python, R, Bash and AWK
+* **Operating systems:** Linux and Unix-based environments
+* **Environment management:** Conda and Mamba
+* **Genome assembly:** Hifiasm and long-read assembly workflows
+* **Genome scaffolding:** Juicer, 3D-DNA, YAHS, HapHiC and Hi-C-based approaches
+* **Genome evaluation:** BUSCO, QUAST and assembly statistics
+* **Sequence processing:** SAMtools, BEDTools, BWA and BWA-MEM2
+* **Comparative genomics:** SyRI, plotsr and orthology-based analyses
+* **Functional annotation:** EGAPx, eggNOG-mapper, GO and KEGG enrichment
+* **Repetitive DNA:** satellite DNA, transposable elements and repeatome analyses
+
+---
+
+## Featured Research Areas
+
+### B Chromosome Genomics
+
+Investigation of the origin, structure, repetitive content, gene composition, and evolution of B chromosomes using chromosome-level genome assemblies, short-read k-mers, sequencing coverage, and comparative genomic approaches.
+
+### Genome Assembly and Curation
+
+Development and comparison of workflows for de novo genome assembly, Hi-C scaffolding, manual curation, chromosome identification, and genome quality assessment.
+
+### Repetitive DNA Evolution
+
+Characterization of satellite DNA, transposable elements, repeat distribution, and repeatome evolution across chromosomes, populations, and related species.
+
+---
+
+## GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=zenirodrigo&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenirodrigo&theme=tokyo-night&hide_border=true"/>
 </p>
 
---- 
-
-### Research Interests
-
-- B chromosomes
-- Satellite DNA
-- Comparative genomics and genome evolution
-- Genome assembly
-
 ---
 
-### Connect With Me
+## Academic Profiles
 
 <p align="left">
+  <a href="https://orcid.org/0000-0002-3034-255X">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--3034--255X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
   <a href="https://www.researchgate.net/profile/Rodrigo-Zeni-Dos-Santos?ev=hdr_xprf">
     <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
   <a href="http://lattes.cnpq.br/5051476095045797">
     <img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge"/>
   </a>
+</p>
+
+## Social Media
+
+<p align="left">
   <a href="https://www.instagram.com/zeni.rodrigo/">
     <img src="https://img.shields.io/badge/Instagram-zeni.rodrigo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-📧 **rodrigo.zeni@unesp.br**  
-📧 **rodrigo-zeni@outlook.com.br**
+---
+
+## Contact
+
+📧 **Institutional:** [rodrigo.zeni@unesp.br](mailto:rodrigo.zeni@unesp.br)
+📧 **Alternative:** [rodrigo-zeni@outlook.com.br](mailto:rodrigo-zeni@outlook.com.br)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4c71f2&height=110&section=footer"/>
+</p>
