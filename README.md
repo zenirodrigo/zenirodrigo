@@ -16,21 +16,8 @@ I'm **Rodrigo Zeni dos Santos**, a Brazilian researcher and PhD candidate in Bio
 
 **Biologist | MSc | PhD Candidate**
 
-My research focuses on **genomics, bioinformatics, repetitive DNA, chromosome evolution, and genome assembly**.
+My research focuses on **genomics, bioinformatics, repetitive DNA, B chromosome, chromosome evolution, and genome assembly**.
 
-I develop and optimize computational workflows for chromosome-level genome assembly, repeat characterization, comparative genomics, and evolutionary analyses using long-read sequencing and chromosome conformation capture data.
-
----
-
-## Research Interests
-
-* B chromosomes and supernumerary chromosome evolution
-* Satellite DNA and repetitive elements
-* Comparative and evolutionary genomics
-* Chromosome-level genome assembly
-* Genome scaffolding and manual curation
-* Structural and functional genome annotation
-* Bioinformatics workflow development
 
 ---
 
