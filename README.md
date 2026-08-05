@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zenirodrigo&label=Profile%20Views&color=EAB5D5&style=flat-square"/>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=python,r,bash,linux,git,github,vscode&perline=7"
@@ -27,6 +31,10 @@
 
 <p align="center">
   My research focuses on <strong>genomics, bioinformatics, repetitive DNA, B chromosomes, chromosome evolution, genome assembly, and comparative genomics</strong>.
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/dna-divider.svg"/>
 </p>
 
 ---
