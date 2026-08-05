@@ -38,7 +38,13 @@
 
 <br>
 
-
+<p align="center">
+  <img
+    width="80%"
+    src="https://raw.githubusercontent.com/zenirodrigo/zenirodrigo/main/assets/dna-divider.svg"
+    alt="Animated DNA double helix"
+  />
+</p>
 
 ---
 
