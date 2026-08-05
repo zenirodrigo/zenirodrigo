@@ -7,14 +7,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zenirodrigo&label=Profile%20Views&color=EAB5D5&style=flat-square"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=zenirodrigo&label=Profile%20Views&color=EAB5D5&style=flat-square"
+    alt="Profile views"
+  />
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=python,r,bash,linux,git,github,vscode&perline=7"
-      alt="Python,R, Bash, Linux, Git, GitHub and Visual Studio Code"
+      alt="Python, R, Bash, Linux, Git, GitHub and Visual Studio Code"
     />
   </a>
 </p>
@@ -33,9 +36,17 @@
   My research focuses on <strong>genomics, bioinformatics, repetitive DNA, B chromosomes, chromosome evolution, genome assembly, and comparative genomics</strong>.
 </p>
 
+<br>
+
 <p align="center">
-  <img width="100%" src="./assets/dna-divider.svg"/>
+  <img
+    width="80%"
+    src="https://raw.githubusercontent.com/zenirodrigo/zenirodrigo/main/assets/dna-divider.svg"
+    alt="Animated DNA double helix"
+  />
 </p>
+
+<br>
 
 ---
 
@@ -113,6 +124,22 @@
   📧 <strong>Alternative:</strong>
   <a href="mailto:rodrigo-zeni@outlook.com.br">rodrigo-zeni@outlook.com.br</a>
 </p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <em>“Nothing in biology makes sense except in the light of evolution.”</em>
+</p>
+
+<p align="center">
+  <strong>— Theodosius Dobzhansky</strong>
+</p>
+
+<br>
 
 <p align="center">
   <img
