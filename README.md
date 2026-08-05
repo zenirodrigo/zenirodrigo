@@ -10,7 +10,7 @@
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=python,r,bash,linux,git,github,vscode&perline=7"
-      alt="Python,  Bash, Linux, Git, GitHub and Visual Studio Code"
+      alt="Python,R, Bash, Linux, Git, GitHub and Visual Studio Code"
     />
   </a>
 </p>
