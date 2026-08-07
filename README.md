@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  My research focuses on <strong>genomics, bioinformatics, repetitive DNA, B chromosomes, chromosome evolution, genome assembly, and comparative genomics</strong>.
+  My research focuses on <strong>genomics, bioinformatics, repetitive DNA, B chromosomes, chromosome evolution, and comparative genomics</strong>.
 </p>
 
 <br>
