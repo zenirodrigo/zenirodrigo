@@ -59,13 +59,6 @@
 
 </p>
 
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zenirodrigo&bg_color=00000000&color=6B6B6B&line=D98FAC&point=8FCFA5&area=true&area_color=EFD4DF&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
 
 ---
 
