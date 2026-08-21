@@ -56,11 +56,7 @@
     src="https://github-readme-stats-alpha-flax.vercel.app/api?username=zenirodrigo&show_icons=true&hide_border=true&bg_color=00000000&title_color=D98FAC&text_color=6B6B6B&icon_color=8FCFA5"
     alt="Rodrigo Zeni's GitHub statistics"
   />
-  <img
-    height="180em"
-    src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=D98FAC&text_color=6B6B6B"
-    alt="Most used programming languages"
-  />
+
 </p>
 
 <p align="center">
