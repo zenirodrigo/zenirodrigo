@@ -101,11 +101,6 @@
   </a>
 </p>
 
----
-
-<h2 align="center">Recent Activity</h2>
-
-
 
 ---
 
