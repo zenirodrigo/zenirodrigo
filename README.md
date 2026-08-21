@@ -56,9 +56,12 @@
     src="https://github-readme-stats-alpha-flax.vercel.app/api?username=zenirodrigo&show_icons=true&hide_border=true&bg_color=00000000&title_color=D98FAC&text_color=6B6B6B&icon_color=8FCFA5"
     alt="Rodrigo Zeni's GitHub statistics"
   />
-
+  <img
+    height="180em"
+    src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=zenirodrigo&layout=compact&hide_border=true&bg_color=00000000&title_color=D98FAC&text_color=6B6B6B&icon_color=8FCFA5"
+    alt="Top languages used"
+  />
 </p>
-
 
 ---
 
@@ -100,6 +103,17 @@
 
 ---
 
+<h2 align="center">Recent Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=zenirodrigo&theme=flat&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Issues"
+    alt="GitHub trophies"
+  />
+</p>
+
+---
+
 <h2 align="center">Contact</h2>
 
 <p align="center">
@@ -119,7 +133,7 @@
 <br>
 
 <p align="center">
-  <em>“Nothing in biology makes sense except in the light of evolution.”</em>
+  <em>"Nothing in biology makes sense except in the light of evolution."</em>
 </p>
 
 <p align="center">
