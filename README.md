@@ -105,12 +105,7 @@
 
 <h2 align="center">Recent Activity</h2>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=zenirodrigo&theme=flat&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Issues"
-    alt="GitHub trophies"
-  />
-</p>
+
 
 ---
 
