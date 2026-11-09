@@ -2,7 +2,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CADB,30:F5D8E7,52:F7F7F7,75:D9F2D9,100:BFECC8&height=210&section=header&text=Rodrigo%20Zeni%20dos%20Santos&fontSize=38&fontColor=4A4A4A&animation=fadeIn&fontAlignY=35&desc=Genomics%20%7C%20Bioinformatics%20%7C%20Genome%20Evolution&descAlignY=55&descSize=18"
-    alt="Rodrigo Zeni dos Santos — Genomics, Bioinformatics and Genome Evolution"
+    alt="Rodrigo Zeni dos Santos — Genome Evolution"
   />
 </p>
 
